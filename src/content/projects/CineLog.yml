@@ -4,7 +4,6 @@ description:
   Com ele, você pode adicionar novos títulos, editar informações, marcar como assistido e até remover filmes da sua lista.
   Tudo fica organizado e fácil de visualizar, ajudando você a não perder nenhum filme e a acompanhar o seu próprio histórico de cinema.
 addresses:
-  homepage: https://github.com/AlvaroMLL/CineLog/index.html
   repository: https://github.com/AlvaroMLL/CineLog
 category:
   type: subject
